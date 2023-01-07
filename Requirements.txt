@@ -1,0 +1,4 @@
+Google colab
+vs code
+streamlit
+Python libraries (use pip install to install various python libraries in VS code)
